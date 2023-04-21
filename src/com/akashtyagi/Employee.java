@@ -138,11 +138,3 @@ class Employee {
          while (q!=0);
      }
  }
- class new{
-	 System.out.println("ankit");
-	 
- }
- 
- class test extends new{
-	 System.out.println("first change in code ");
- }
